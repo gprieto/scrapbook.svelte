@@ -1,2 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to a very unfinished scrapbook.svelte</h1>
+
+<a href="/test-markdown">A page using markdown</a>
