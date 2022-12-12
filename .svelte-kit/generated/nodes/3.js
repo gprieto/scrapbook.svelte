@@ -1,1 +1,3 @@
-export { default as component } from "../../../src/routes/test-markdown/+page.md";
+import * as shared from "../../../src/routes/event/[event]/+page.js";
+export { shared };
+export { default as component } from "../../../src/routes/event/[event]/+page.svelte";
